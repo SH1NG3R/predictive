@@ -17,8 +17,8 @@ const char* ssid = "CCL";
 const char* password = "contrasena";
 
 // Configuración Firebase
-#define API_KEY "AIzaSyCiYw981i3LGlTHY1ms57Er2LN-fN7Rya4"
-#define DATABASE_URL "https://esp32vib-default-rtdb.firebaseio.com/"
+#define API_KEY "aaaa"
+#define DATABASE_URL "bbbbbbbbb"
 
 // Configuración OLED
 #define SCREEN_WIDTH 128
